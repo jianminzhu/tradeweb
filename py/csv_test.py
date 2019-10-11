@@ -1,5 +1,4 @@
 import csv
-csv_reader=csv.reader(open('files/nasdaq_15min_fenxing.csv',encoding='utf-8'))
+csv_reader=csv.reader(open('../test_data/nasdaq_15min_fenxing.csv' ))
 for row in csv_reader:
-    print(row)
-#taxi.csv最好放在同一目录下
+    print(row) 
