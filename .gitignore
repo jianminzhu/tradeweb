@@ -1,0 +1,5 @@
+/node_modules
+/dist
+/.idea
+/tsc-by-namespace-demo/dist
+/ts-namespace-demo/dist
