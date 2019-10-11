@@ -1,5 +1,3 @@
-/node_modules
-/dist
+/tsapp/node_modules
+/tsapp/html/js_wp
 /.idea
-/tsc-by-namespace-demo/dist
-/ts-namespace-demo/dist
